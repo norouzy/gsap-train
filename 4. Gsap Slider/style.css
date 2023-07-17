@@ -83,6 +83,9 @@ body {
   transform: translateX(-100%);
 }
 
+.s1 {
+  transform: translateX(0%);
+}
 .slide h2 {
   font-size: 45px;
   padding-top: 300px;
