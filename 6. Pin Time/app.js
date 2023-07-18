@@ -37,5 +37,4 @@ sections.forEach((section, index) => {
       gsap.set(".tooltip p", { innerHTML: dates[index] });
     },
   });
-  ScrollTrigger.refresh();
 });
